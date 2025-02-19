@@ -5,7 +5,6 @@ test.jsonl: Contains 205 multiple-choice questions and their corresponding corre
 OpenAI Model Evaluation.py: Script for evaluating OpenAI models (e.g., GPT-3, GPT-4) on the provided test set.
 Other Model Evaluation.py: Script for evaluating other large language models through third-party APIs.
 
-Usage:
 1.Prerequisites:
 Ensure you have Python installed (preferably Python 3.7+).
 Install necessary Python libraries: "pip install openai tqdm"
