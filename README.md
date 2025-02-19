@@ -1,5 +1,4 @@
 # LLMs_Medical_Evaluation
-Evaluation of Large Language Models in Female Malignancies Specialty Q&amp;A
 This repository provides a set of automated scripts to evaluate various large models for answering professional medical questions.
 
 Files:
